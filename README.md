@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Alsabith</h1>
 
 <h3 align="center">
-Java Developer | Cloud Computing | DSA
+Java | Cloud Computing | DSA
 </h3>
 
 ---
@@ -25,7 +25,7 @@ Java Developer | Cloud Computing | DSA
 
 **Languages**
 
-☕ Java • 🐍 Python • 💻 C
+☕ Java • 🐍 Python 
 
 **Currently Learning**
 
