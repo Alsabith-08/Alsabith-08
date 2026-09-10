@@ -11,8 +11,6 @@
 
 ---
 
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -53,20 +51,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Alsabith-08&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Alsabith-08&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 🧠 LeetCode Journey
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Alsabith?theme=dark&font=baloo&ext=heatmap" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alsabith-08&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
