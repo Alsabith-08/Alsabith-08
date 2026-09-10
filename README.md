@@ -60,18 +60,3 @@ Java | Cloud Computing | DSA
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Alsabith?theme=dark&font=baloo&ext=heatmap" />
 </p>
-
-## 🧠 Current Focus
-
-```text
-Java
-  ↓
-DSA
-  ↓
-Backend Development
-  ↓
-Cloud Computing
-  ↓
-System Design
-
-
