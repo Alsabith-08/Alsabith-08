@@ -1,14 +1,3 @@
-<p align="center">
-  <img src="./art/banner.png" width="100%">
-</p>
-
-<h1 align="center">Hi 👋, I'm Alsabith</h1>
-
-<h3 align="center">
-Java | Cloud Computing | DSA
-</h3>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=180&section=header&text=Alsabith&fontSize=42&fontAlignY=38&desc=Java%20%7C%20Cloud%20Computing%20%7C%20DSA&descAlignY=58&descSize=18" width="100%"/>
