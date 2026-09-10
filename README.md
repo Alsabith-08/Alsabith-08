@@ -1,16 +1,55 @@
-## Hi there 👋
+<p align="center">
+  <img src="./art/banner.png" width="100%">
+</p>
 
-<!--
-**Alsabith-08/Alsabith-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Alsabith</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Java Developer | Cloud Computing | DSA
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.E. Computer Science Engineering Student
+- ☕ Learning Java & Data Structures
+- ☁️ Building my career in Cloud Computing
+- 🧠 Solving DSA problems on LeetCode
+- 🚀 Interested in Cloud & Software Engineering
+- 🔨 Building practical projects
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+☕ Java • 🐍 Python • 💻 C
+
+**Currently Learning**
+
+📚 DSA • ☁️ Cloud Computing • 🌐 Backend Development • 🏗️ System Design
+
+---
+
+## 🚀 Projects
+
+- ⚡ **WattSnapp** — AI Appliance Efficiency Auditor
+- 🔗 **RouteFiber** — Blockchain-based project
+- 🎵 **Gesture-Based Music Maker** — Gesture-controlled music application
+
+---
+
+## 🧠 Current Focus
+
+```text
+Java
+  ↓
+DSA
+  ↓
+Backend Development
+  ↓
+Cloud Computing
+  ↓
+System Design
