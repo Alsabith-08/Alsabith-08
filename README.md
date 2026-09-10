@@ -18,19 +18,19 @@
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c" />
+  <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
 ### ☁️ Cloud & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,spring,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,spring,git,github" />
 </p>
 
 ### 🧠 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,aws" />
 </p>
 
 ---
@@ -45,10 +45,12 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alsabith-08&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alsabith-08&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -57,6 +59,14 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Alsabith?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Alsabith-08&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
