@@ -26,19 +26,19 @@ Java | Cloud Computing | DSA
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c" />
+  <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
 ### ☁️ Cloud & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,spring,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,spring,git,github" />
 </p>
 
 ### 🧠 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=java,aws" />
 </p>
 
 ---
