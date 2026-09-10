@@ -45,7 +45,7 @@ Java | Cloud Computing | DSA
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alsabith-08&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alsabith-08&show_icons=true&theme=tokyonight" />
 </p>
 
 ## 🔥 GitHub Streak
