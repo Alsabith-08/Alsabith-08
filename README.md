@@ -11,16 +11,27 @@
 
 ---
 
-### 🛠️ Tech Stack
+---
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🛠️ Tech Stack
 
-**Cloud & Tools**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c" />
+</p>
+
+### ☁️ Cloud & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,spring,mysql,git,github" />
+</p>
+
+### 🧠 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,docker" />
+</p>
 
 ---
 
@@ -34,26 +45,32 @@
 
 ---
 
-### 📊 Stats & Activity
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alsabith-08&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alsabith-08&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Alsabith?theme=dark&font=Ubuntu" width="400" alt="LeetCode Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alsabith-08&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-### 🌐 Connect With Me
+## 🧠 LeetCode Journey
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://leetcard.jacoblin.cool/Alsabith?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alsabith-s-90612138b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://leetcode.com/u/Alsabith/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://github.com/Alsabith-08">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
