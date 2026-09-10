@@ -13,11 +13,27 @@ Java | Cloud Computing | DSA
 ## 👨‍💻 About Me
 
 - 🎓 B.E. Computer Science Engineering Student
-- ☕ Learning Java & Data Structures
-- ☁️ Building my career in Cloud Computing
-- 🧠 Solving DSA problems on LeetCode
-- 🚀 Interested in Cloud & Software Engineering
-- 🔨 Building practical projects
+- ☕ Building strong foundations in Java & DSA
+- ☁️ Pursuing a career in Cloud Computing
+- 🧩 Solving problems on LeetCode
+- 🔨 Building practical software projects
+- 🚀 Interested in Backend & Cloud Engineering
+- 📚 Always learning and improving
+
+---
+
+## 🎯 Current Focus
+
+```text
+Java
+ ↓
+Data Structures & Algorithms
+ ↓
+Backend Development
+ ↓
+Cloud Computing
+ ↓
+System Design
 
 ---
 
