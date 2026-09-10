@@ -22,21 +22,6 @@ Java | Cloud Computing | DSA
 
 ---
 
-## 🎯 Current Focus
-
-```text
-Java
- ↓
-Data Structures & Algorithms
- ↓
-Backend Development
- ↓
-Cloud Computing
- ↓
-System Design
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
