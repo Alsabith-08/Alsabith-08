@@ -23,13 +23,23 @@ Java | Cloud Computing | DSA
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Languages
 
-☕ Java • 🐍 Python 
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c" />
+</p>
 
-**Currently Learning**
+### ☁️ Cloud & Backend
 
-📚 DSA • ☁️ Cloud Computing • 🌐 Backend Development • 🏗️ System Design
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,spring,mysql,git,github" />
+</p>
+
+### 🧠 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,docker" />
+</p>
 
 ---
 
