@@ -41,20 +41,6 @@ Java Developer | Cloud Computing | DSA
 
 ---
 
-## 🧠 Current Focus
-
-```text
-Java
-  ↓
-DSA
-  ↓
-Backend Development
-  ↓
-Cloud Computing
-  ↓
-System Design
-
-
 ---
 
 ## 📊 GitHub Stats
@@ -69,28 +55,17 @@ System Design
   <img src="https://streak-stats.demolab.com?user=Alsabith-08&theme=tokyonight&hide_border=true" />
 </p>
 
+## 🧠 Current Focus
 
+```text
+Java
+  ↓
+DSA
+  ↓
+Backend Development
+  ↓
+Cloud Computing
+  ↓
+System Design
 
-
-
-
-
-
-
-
-
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alsabith-08&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alsabith-08&theme=tokyonight&hide_border=true" />
-</p>
 
