@@ -5,8 +5,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 B.E. Computer Science and Engineering Student
-- ☕ Building core systems and backend architectures with **Java** & **Spring**
-- ☁️ Developing & deploying applications on **AWS**
+- ☕ Building core systems and backend architectures with **Java**
 - 🧩 Actively practicing algorithms on **LeetCode**
 
 ---
@@ -22,26 +21,14 @@
 ### ☁️ Cloud & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,spring,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github" />
 </p>
 
 ### 🧠 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,aws" />
+  <img src="https://skillicons.dev/icons?i=java,aws" />
 </p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Description | Repo |
-| :--- | :--- | :--- | :---: |
-| **WattSnapp** | Python, ML | AI appliance efficiency auditing tool | [View](https://github.com/Alsabith-08) |
-| **RouteFiber** | Blockchain, Python | Supply chain provenance & verification platform | [View](https://github.com/Alsabith-08) |
-| **Gesture Music Maker** | JS, MediaPipe | Real-time computer-vision audio controller | [View](https://github.com/Alsabith-08) |
-
----
 
 ---
 
@@ -75,8 +62,5 @@
   </a>
   <a href="https://leetcode.com/u/Alsabith/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-  <a href="https://github.com/Alsabith-08">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
