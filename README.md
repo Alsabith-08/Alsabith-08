@@ -102,6 +102,32 @@ I'm following an **80-day structured Java DSA journey** focused on understanding
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Alsabith-08/Alsabith-08/output/github-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Alsabith-08/Alsabith-08/output/github-snake.svg"
+    />
+
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Alsabith-08/Alsabith-08/output/github-snake.svg"
+    />
+
+  </picture>
+
+</p>
+
+---
+
 ## 🚀 Projects
 
 > Building projects that demonstrate practical software engineering and cloud skills.
