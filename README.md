@@ -73,82 +73,12 @@
 
 ---
 
-## ☁️ Cloud Engineering Journey
 
-I'm following a structured path toward Cloud Engineering:
-
-```text
-                    ☕ Java
-                      │
-                      ▼
-                 🧠 DSA
-                      │
-                      ▼
-               🔧 Git & GitHub
-                      │
-                      ▼
-                  🐧 Linux
-                      │
-                      ▼
-              🌐 Networking
-                      │
-                      ▼
-                  ☁️ AWS
-                      │
-                      ▼
-                 🐳 Docker
-                      │
-                      ▼
-                 ⚙️ CI/CD
-                      │
-                      ▼
-             🚀 Cloud Projects
-                      │
-                      ▼
-             💼 Cloud Engineer
-```
-
-### Current Focus
-
-* ☕ Java & Problem Solving
-* 🧠 Data Structures & Algorithms
-* 🔧 Git & GitHub
-* ☁️ AWS Cloud Fundamentals
-* 🐧 Linux Fundamentals
-* 🌐 Computer Networking
-* 🚀 Cloud-based Projects
-
----
 
 ## 📚 DSA Journey
 
 I'm following an **80-day structured Java DSA journey** focused on understanding patterns and improving problem-solving ability.
 
-### Topics
-
-```text
-Arrays
-   ↓
-Strings
-   ↓
-Two Pointers
-   ↓
-Sliding Window
-   ↓
-Hashing
-   ↓
-Linked Lists
-   ↓
-Stacks & Queues
-   ↓
-Trees & BST
-   ↓
-Heaps
-   ↓
-Graphs
-   ↓
-Dynamic Programming
-```
 
 ### 🏆 Practice Platforms
 
